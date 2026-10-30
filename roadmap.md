@@ -1,0 +1,13 @@
+# Head Office updates
+- [x] Replace period selector with applied inclusive date range (existing sample reporting data).
+- [x] Move attention and dealer rankings into bottom-button pop-ups.
+- [x] Add first-screen objective graphs for 80% service calling and 100% appointment calling.
+- [x] Verify targets, date range, pop-ups, independent reports and scrolling.
+- [x] Replace overview graphs with a call-type switch and hierarchical comparison graph.
+- [x] Verify all five graph levels, drill-down, targets and applied filters.
+- [x] Show paired vertical Due / Done bars and per-location target markers.
+- [x] Verify paired bars and both call types through dealer drill-down.
+- [x] Refine Calling Performance styling and dealer ranking pop-up presentation.
+- [x] Verify chart navigation and ranking pop-up at desktop and narrow sizes.
+- [x] Match Telecaller Desk to the supplied three-column reference with a horizontal activity band.
+- [x] Verify English/Hindi visibility, one-screen layout and calling links.
